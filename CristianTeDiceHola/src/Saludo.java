@@ -7,5 +7,7 @@ public class Saludo {
 		return Nom;
 	}
 	//version1
-	
+	public void SetNom(String n){
+		n = Nom;
+	}
 }
