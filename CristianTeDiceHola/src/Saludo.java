@@ -7,7 +7,7 @@ public class Saludo {
 		return Nom;
 	}
 	//version1
-	//version2
+	
 	
 	public static void main(String[]args){
 		
