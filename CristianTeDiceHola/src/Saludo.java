@@ -7,7 +7,7 @@ public class Saludo {
 		return Nom;
 	}
 	//version1
-	
+	//modificacion hecha por cristian
 	
 	public static void main(String[]args){
 		
