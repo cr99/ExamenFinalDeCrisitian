@@ -7,5 +7,5 @@ public class Saludo {
 		return Nom;
 	}
 	//version1
-	
+	//version2
 }
